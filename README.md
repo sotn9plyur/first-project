@@ -1,1 +1,1 @@
-https://github.com/sotn9plyur/ono-tebe-nado/
+https://github.com/sotn9plyur/first-project
