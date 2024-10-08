@@ -55,7 +55,6 @@
 
 .cover {
   position: relative;
-  max-height: 100%;
   width: 1100px;
   padding: 165px 50px 51px 50px;
   background-image: url(../img/cover.jpg);
@@ -132,7 +131,7 @@
   padding: 10px 5px 10px 5px;
   border: 1px solid white;
   font-size: 22px;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   color: #fff;
   background-color: transparent;
@@ -333,10 +332,6 @@
 .footer__menu-link {
   color: #000;
   font-size: 18px;
-}
-
-.footer__menu-link_active {
-  text-decoration: underline;
 }
 
 .footer__menu-link_active {
